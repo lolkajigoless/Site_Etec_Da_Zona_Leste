@@ -1,6 +1,6 @@
 # Etec Da Zona Leste
 
-Site feito para trabalho da matéria de Programação Web III com professor marcelo collado.
+Site feito para trabalho da matéria de Programação Web III.
 
 ## Tecnologias
 - Laravel/PHP
